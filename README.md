@@ -24,7 +24,7 @@
 <div align="center">
 
 
-url=https://github.com/jehadkobani&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+
 [![Website](https://img.shields.io/badge/My%20Website-jehad.kesug.com-blue?style=flat&logo=google-chrome)](https://jehad.kesug.com)
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=flat&logo=telegram)](https://t.me/YourTelegramUser)
 

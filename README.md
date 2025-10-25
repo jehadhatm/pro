@@ -3,7 +3,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
-### 👋 مرحباً، أنا [جهاد القوباني](https://jehad.kesug.com)
+### 👋 مرحباً، أنا [جهاد القوباني | Jehad Alqobani](https://jehad.kesug.com)
 **Full Stack Developer | Flutter, PHP & C# Developer**
 
 </div>
@@ -14,7 +14,7 @@
 
 - 🧠 مطور تطبيقات ومواقع بخبرة في **C#**, **PHP**, و **Flutter**  
 - ⚙️ أعمل على بناء أنظمة متكاملة وخدمات ويب متطورة  
-- 🌍 شغوف بتقنيات **Open Source** وتجربة الأنظمة **GNU/Linux**  
+- 🌍 شغوف بتقنيات **Open Source** وتجربة الأنظمة بانوعها ****  
 - 📫 يمكنك زيارتي على موقعي الشخصي: [jehad.kesug.com](https://jehad.kesug.com)  
 - 💬 اسألني عن **تطوير الواجهات، APIs، أو أي شيء في عالم البرمجة**  
 - 🎯 هدفي: كتابة كود نظيف وسلس وسهل الصيانة  
@@ -53,7 +53,7 @@ class AboutJehad {
   const tools = {
     "Languages": {"C#", "PHP", "Dart", "JavaScript", "HTML", "CSS"},
     "Frameworks": {"Flutter", "Laravel"},
-    "Databases": {"MySQL", "SQLite", "Firebase"},
+    "Databases": {"Sql Server","MySQL", "SQLite", "Firebase"},
     "Tools": {"VS Code", "Git", "Photoshop"},
     "Platforms": {"Windows", "Linux"}
   };
